@@ -55,7 +55,6 @@ _________________________________________________________
 
 * shell_history.c
 Command Recall using ‘UP’ arrow key.  
-Continued from assignment 2.  
 Added extra features to previous module to support new functionalities.  
 _________________________________________________________
 
@@ -67,10 +66,7 @@ _________________________________________________________
 * shell_kjob.c
 Specification 5: User-defined commands.  
 Contains code for kjob command.  
-_________________________________________________________
 
-* shell_ls.c
-Assignment 2 requirement.  
 _________________________________________________________
 
 * shell_main.c
