@@ -1,0 +1,4 @@
+#define COMMAND_LEN 1024
+#define HOSTNAME_LEN 128
+#define PATH_LEN 1024
+#define NO_OF_ARGS 128
